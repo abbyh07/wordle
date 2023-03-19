@@ -1,4 +1,4 @@
-# Abby Higgins- wordle 3/18/2023
+# Abby H- wordle 3/18/2023
 
 # importing colored text
 from colorama import Back, Style
